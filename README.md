@@ -1,2 +1,3 @@
-# mvc-padrao
-estrutura de mvc
+**Estrutura Padrão Simples em MVC**
+===================================
+Este projeto tem por finalidade praticar a estrutura mvc.

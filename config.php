@@ -1,7 +1,7 @@
 <?php
 require 'environment.php';
 
-define("BASE_URL", "http://projetox.pc/mvc-padrao");
+define("BASE_URL", "https://simple-php-mvc.herokuapp.com");
 
 
 global $config;

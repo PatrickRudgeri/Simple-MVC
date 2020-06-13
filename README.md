@@ -1,3 +1,4 @@
-**Estrutura Padrão Simples em MVC**
+**Simple MVC project**
 ===================================
-Este projeto tem por finalidade praticar a estrutura mvc.
+
+This project aims to provide a simple MVC project.

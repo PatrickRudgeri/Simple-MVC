@@ -9,7 +9,7 @@ class Model
 
 		global $config;
 		try{
-			$this->db = new PDO("mysql:dbname=".$config['dbname'].";host=".$config['host'], $config['dbuser'], $config['dbpass']);
+			$this->db = new PDO("postgree:dbname=".$config['dbname'].";host=".$config['host'], $config['dbuser'], $config['dbpass']);
 		}catch(PDOException $e){
 			echo "ERRO NAS CONFIGURAÇÕES!";
 		}
